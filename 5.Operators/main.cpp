@@ -1,5 +1,5 @@
 //Conditional Operator: Find the larger number using conditional operator
-//Relatiuonal Operator(> or < )
+//Relational Operator(> or < )
 //Find the larger number
 
 #include <iostream>
@@ -10,7 +10,7 @@ int main(){
     int c;
     cout<<"Enter first number";
     cin>>a;
-    cout<<"Enter second number+";
+    cout<<"Enter second number";
     cin>>b;
     
     c=(a>b)?a:b; //Can use any of the following (b>a)?b:a; or (a<b)?b:a or(b<a)?a:b;
